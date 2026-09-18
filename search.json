@@ -11,13 +11,13 @@
     "href": "index.html",
     "title": "Kuan Rong Yang",
     "section": "",
-    "text": "This is my public portfolio."
+    "text": "This is my public portfolio.\n\nimport pandas as pd\n\ndata = {\n    \"Course\": [\"AD688\", \"Business Analytics\"],\n    \"Platform\": [\"AWS EC2\", \"Quarto\"]\n}\n\ndf = pd.DataFrame(data)\ndf\n\n\n\n\n\n\n\n\nCourse\nPlatform\n\n\n\n\n0\nAD688\nAWS EC2\n\n\n1\nBusiness Analytics\nQuarto"
   },
   {
     "objectID": "index.html#kuanrong-yang.github.io",
     "href": "index.html#kuanrong-yang.github.io",
     "title": "Kuan Rong Yang",
     "section": "",
-    "text": "This is my public portfolio."
+    "text": "This is my public portfolio.\n\nimport pandas as pd\n\ndata = {\n    \"Course\": [\"AD688\", \"Business Analytics\"],\n    \"Platform\": [\"AWS EC2\", \"Quarto\"]\n}\n\ndf = pd.DataFrame(data)\ndf\n\n\n\n\n\n\n\n\nCourse\nPlatform\n\n\n\n\n0\nAD688\nAWS EC2\n\n\n1\nBusiness Analytics\nQuarto"
   }
 ]

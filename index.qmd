@@ -5,3 +5,17 @@ title: "Kuan Rong Yang"
 ## kuanrong-yang.github.io
 
 This is my public portfolio.
+
+
+
+```{python}
+import pandas as pd
+
+data = {
+    "Course": ["AD688", "Business Analytics"],
+    "Platform": ["AWS EC2", "Quarto"]
+}
+
+df = pd.DataFrame(data)
+df
+```
